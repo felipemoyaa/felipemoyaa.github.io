@@ -25,9 +25,9 @@ __2 Caracteristicas de Paltas:__
 
 __Imagenes del tablero:__
 
-![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/main/Imagenres/Avocado%201.png)
-![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/main/Imagenres/Avocado%202.png)
-![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/main/Imagenres/Avocado%203.png)
+![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/main/Imagenes/Avocado%201.png)
+![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/main/Imagenes/Avocado%202.png)
+![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/main/Imagenes/Avocado%203.png)
 
 __Conclusiones:__
 
