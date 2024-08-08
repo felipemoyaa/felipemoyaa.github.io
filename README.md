@@ -33,7 +33,7 @@ __Conclusiones:__
 
 *El periodo 2015, fue donde mas se vendió. Después fueron decayendo las ventas entre periodos.
 
-*Casi todos los ingresoos son generados por las paltas convencionales (10.940 millones). Las paltas orgaánicas sólo aporten una pequeña porción (210 millones).
+*Casi todos los ingresoos son generados por las paltas convencionales (10.940 millones). Las paltas orgánicas sólo aportan una pequeña porción (210 millones).
 
 *Top 3 de las regiones con mas ventas: California, GreatLakes, LosAngeles.
 
