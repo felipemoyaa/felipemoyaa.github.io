@@ -43,7 +43,7 @@ __Preguntas para plantearse después del informe:__
 
 ¿Hay algún nuevo competidor que está afectando la rentabilidad?
 
-¿Las ventas decayeron por las cosechas?
+¿Los ingresos decayeron por las cosechas?
 
 ¿Qué se puede hacer para volver a las ganancias del 2015 incluso superarlas?
 
