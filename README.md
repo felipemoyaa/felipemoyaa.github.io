@@ -27,7 +27,6 @@ __Imagenes del tablero:__
 
 ![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/main/Imagenes/AVOCADOO%201.png)
 ![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/main/Imagenes/Avocado%202.png)
-![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/main/Imagenes/Avocado%203.png)
 
 __Conclusiones:__
 
