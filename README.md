@@ -44,7 +44,9 @@ __Preguntas para plantearse después del informe:__
 
 ¿Los ingresos decayeron por las cosechas?
 
+PRO
 ¿Qué se puede hacer para volver a las ganancias del 2015 incluso superarlas?
 
 [LINK DE LOS ARCHIVOS TRABAJADOS](https://drive.google.com/drive/u/0/folders/1yD5441duSVQy4svLA251wJxyryIrQZxb)
 
+[PROYECTO 2: Análisis de Satisfacción](https://github.com/felipemoyaa/felipemoyaa.github.io)
