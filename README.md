@@ -69,7 +69,7 @@ __Imagen Despuesés de los cambios en Power Query__
 
 ![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/refs/heads/main/Imagenes/CAMBIAS%20POWER%20QUERY%202.png)
 
-Se tuvo que cambiar las faltas de ortafría en la columna "Areas" para que los datos sean homogéneos. También se usó le herramienta "Dividor columnas por delimitador" donde separé una columna en dos, para para dejar la columna con los datos que se necesitaba.
+Se tuvo que cambiar las faltas de ortografría en la columna "Areas" para que los datos sean homogéneos. También se usó le herramienta "Dividor columnas por delimitador" donde separé una columna en dos, para para dejar la columna con los datos que se necesitaba.
 
 __Imagen del Tablero__
 
