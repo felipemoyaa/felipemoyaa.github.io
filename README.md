@@ -49,7 +49,7 @@ PRO
 
 [LINK DE LOS ARCHIVOS TRABAJADOS](https://drive.google.com/drive/u/0/folders/1yD5441duSVQy4svLA251wJxyryIrQZxb)
 
-[PROYECTO 2: Análisis de Satisfacción](https://github.com/felipemoyaa/felipemoyaa.github.io)
+[PROYECTO 2: Análisis Operativo de Empresa Telefonica](https://github.com/felipemoyaa/felipemoyaa.github.io)
 
 Para este segundo proyecto en Power Bi se uso un archivo excel de mas de mil filas y 9 columnas para la retroalimentación del tablero. Dónde pricipalmente se analizó a grandes rasgos:
 
