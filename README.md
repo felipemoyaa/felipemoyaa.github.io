@@ -78,7 +78,7 @@ __Conclusiones__
 
 *El operador Juan es quien mas llamados realizó. En cambio el operador Marcelo fue quien menos llamados realizo.
 
-*Se tiene una tasa de satisfacción promedio de 3.4 en total dejando un marguen de 1.6 para mantener una satisfacción ideal
+*Se tiene una tasa de satisfacción promedio de 3.4 en total dejando un margen de 1.6 para mantener una satisfacción ideal
 
 *El operador que atiende mas rápido en promedio es Marcelo y el mas lento Gustavo.
 
