@@ -1,6 +1,6 @@
 [PROYECTO 1: AVOCADO](https://github.com/felipemoyaa/felipemoyaa.github.io)
 
-Para este proyecto en Power Bi se uso un archivo excel de mas de 18mil filas y 14 columnas para la retroalimentación del tablero. Dónde pricipalmente se analizó a grandes rasgos:
+Para este primer proyecto en Power Bi se uso un archivo excel de mas de 18mil filas y 14 columnas para la retroalimentación del tablero. Dónde pricipalmente se analizó a grandes rasgos:
 
 __54 Regiones:__
 
@@ -50,3 +50,28 @@ PRO
 [LINK DE LOS ARCHIVOS TRABAJADOS](https://drive.google.com/drive/u/0/folders/1yD5441duSVQy4svLA251wJxyryIrQZxb)
 
 [PROYECTO 2: Análisis de Satisfacción](https://github.com/felipemoyaa/felipemoyaa.github.io)
+
+Para este segundo proyecto en Power Bi se uso un archivo excel de mas de mil filas y 9 columnas para la retroalimentación del tablero. Dónde pricipalmente se analizó a grandes rasgos:
+
+__Operadores__
+
+*Son 7 operadores de la empresa
+
+__Razón del llamado__
+
+*Se reprensentan principalmente por estos 4 aspectos los llamados: Ventas, Intercambios, Cancelaciones, Reclamos.
+
+__Imagen Previo a cambios en Power Query__
+
+![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/refs/heads/main/Imagenes/CAMBIOS%20POWER%20QUERY%201.png)
+
+__Imagen Despuesés de los cambios en Power Query__
+![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/refs/heads/main/Imagenes/CAMBIAS%20POWER%20QUERY%202.png)
+
+Se tuvo que cambias las faltas de ortafría en toda una columnas para que los datos sean homogéneos. También se usó le herramienta "Dividor columnas por delimitador" donde separé una columna en dos, para para dejar la columnas con los datos que se necesitaban.
+
+__Imagen del Tablero__
+
+![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/refs/heads/main/Imagenes/Tablero.png)
+
+__Conclusiones__
