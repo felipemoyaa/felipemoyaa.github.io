@@ -75,3 +75,10 @@ __Imagen del Tablero__
 ![](https://raw.githubusercontent.com/felipemoyaa/felipemoyaa.github.io/refs/heads/main/Imagenes/Tablero.png)
 
 __Conclusiones__
+
+*El operador Juan es quien mas llamados realizó, el menor fue Marcelo
+
+*Se tiene una tasa de satisfacción promedio de 3.4 en total dejando un marguen de 1.6 para mantener una satisfacción ideal
+
+*El operador que atiende mas rápido en promedio es Marcelo y el mas lento Gustavo.
+
