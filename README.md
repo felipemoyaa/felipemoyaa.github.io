@@ -1,6 +1,10 @@
-[PROYECTO 1: AVOCADO](https://github.com/felipemoyaa/felipemoyaa.github.io)
+[PROYECTO 1: Análisis de Mercado y Tendencias de Consumo (Avocado Industry)](https://github.com/felipemoyaa/felipemoyaa.github.io)
 
-Para este primer proyecto en Power Bi se uso un archivo excel de mas de 18mil filas y 14 columnas para la retroalimentación del tablero. Dónde principalmente se analizó a grandes rasgos:
+Descripción: Desarrollo de un ecosistema de visualización en Power BI basado en un dataset de +18,000 registros para identificar patrones de consumo y rentabilidad en 54 regiones.
+
+Alcance: Análisis comparativo de 4 periodos (2015-2018) segmentado por tipo de producto (Orgánico vs. Convencional) y calibres de fruta (Chico, Mediano, Grande).
+
+Procesamiento: Implementación de lógica de negocio para agrupar regiones estratégicas y volumetría de ventas.
 
 __54 Regiones:__
 
@@ -30,11 +34,11 @@ __Imagenes del tablero:__
 
 __Conclusiones:__
 
-*El periodo 2015, fue donde mas se vendió. Después fueron decayendo las ventas entre periodos.
+Dominio de Mercado: El 98% de los ingresos provienen del segmento convencional ($10,940M). Se identifica una oportunidad de penetración de mercado para el sector orgánico ($210M) en regiones con alta conciencia de salud
 
-*Casi todos los ingresoos son generados por las paltas convencionales (10.940 millones). Las paltas orgánicas sólo aportan una pequeña porción (210 millones).
+Análisis Temporal: Se detectó un pico de rendimiento en 2015 con una tendencia decreciente posterior. Hipótesis de Negocio: La caída sugiere una saturación de oferta o fluctuación de precios que requiere un análisis de correlación con costos de cosecha para recuperar márgenes operativos.
 
-*Top 3 de las regiones con mas ventas: California, GreatLakes, LosAngeles.
+Geolocalización Estratégica: California, Great Lakes y Los Ángeles concentran el mayor volumen, siendo las regiones críticas para la cadena de suministro.
 
 __Preguntas para plantearse después del informe:__
 
@@ -49,17 +53,16 @@ PRO
 
 [LINK DE LOS ARCHIVOS TRABAJADOS](https://drive.google.com/drive/u/0/folders/1yD5441duSVQy4svLA251wJxyryIrQZxb)
 
-[PROYECTO 2: Análisis Operativo de Empresa Telefonica](https://github.com/felipemoyaa/felipemoyaa.github.io)
+[PROYECTO 2: Optimización del Desempeño Operativo](https://github.com/felipemoyaa/felipemoyaa.github.io)
 
 Para este segundo proyecto en Power Bi se uso un archivo excel de mas de mil filas y 9 columnas para la retroalimentación del tablero. Dónde principalmente se analizó a grandes rasgos:
 
-__Operadores__
+Descripción: Análisis integral de eficiencia y calidad de servicio para una empresa de telecomunicaciones, enfocado en la productividad por operador y motivos de contacto
 
-*Son 7 operadores de la empresa
+Calidad de Datos: Ejecución de procesos de ETL en Power Query para la normalización de datos categóricos, corrección de errores de entrada manual y desambiguación de columnas mediante delimitadores, asegurando la integridad del reporte final.
 
-__Razón del llamado__
+KPIs Analizados: Tasa de satisfacción (CSAT), Volumen de llamadas (Productividad) y Tiempos de atención (AHT).
 
-*Se reprensentan principalmente por estos 4 aspectos los llamados: Ventas, Intercambios, Cancelaciones, Reclamos.
 
 __Normalización y limpieza de datos categóricos para asegurar la integridad de la información Imagen Previa__
 
@@ -76,10 +79,10 @@ __Imagen del Tablero__
 
 __Conclusiones__
 
-*El operador Juan es quien mas llamados realizó. En cambio el operador Marcelo fue quien menos llamados realizo.
+Brecha de Satisfacción: La satisfacción promedio se sitúa en 3.4/5. Se identificó una brecha de 1.6 puntos respecto al ideal, concentrada principalmente en el motivo de "Reclamos".
 
-*Se tiene una tasa de satisfacción promedio de 3.4 en total dejando un margen de 1.6 para mantener una satisfacción ideal
+Benchmarking de Operadores: Juan lidera el volumen de atención, mientras que Marcelo presenta el menor tiempo de respuesta (AHT). Insight: Es necesario cruzar la rapidez de Marcelo con su índice de resolución para validar si la velocidad está afectando la calidad del servicio.
 
-*El operador que atiende mas rápido en promedio es Marcelo y el mas lento Gustavo.
+Acción Recomendada: Implementar un plan de capacitación enfocado en Gustavo (operador más lento) y estandarizar los procesos de "Ventas" y "Reclamos" para mejorar el promedio de satisfacción general.
 
 [LINK DE LOS ARCHIVOS TRABAJADOS](https://drive.google.com/drive/folders/1wgJMD8E05EOiwSTYutL2jZOLzAyEwpAU?usp=drive_link)
