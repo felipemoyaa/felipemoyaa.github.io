@@ -2,7 +2,7 @@
 
 Descripción: Desarrollo de un ecosistema de visualización en Power BI basado en un dataset de +18,000 registros para identificar patrones de consumo y rentabilidad en 54 regiones.
 
-Alcance: Análisis comparativo de 4 periodos (2015-2018) segmentado por tipo de producto (Orgánico vs. Convencional) y calibres de fruta (Chico, Mediano, Grande).
+Alcance: Análisis comparativo de 4 periodos (2015-2018) segmentado por tipo de producto (Orgánico vs. Convencional) y tamaños de frutas (Chico, Mediano, Grande).
 
 Procesamiento: Implementación de lógica de negocio para agrupar regiones estratégicas y volumetría de ventas.
 
